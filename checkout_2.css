@@ -1,0 +1,1012 @@
+html,
+body {
+    background-color: #FFFFFF;
+    font-family: Roboto;
+    height: 100%;
+    background: #FFFFFF;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+.css-1vuza9j {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.css-gkatav {
+    margin: 0px auto;
+    max-width: 1281px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+}
+
+.css-199o1ch {
+    display: flex;
+    height: 128px;
+    flex-direction: column;
+}
+
+.css-14eks39 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-shrink: 0;
+    cursor: pointer;
+    order: 1;
+}
+
+.css-h1hxk7 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-shrink: 0;
+    padding: 16px;
+}
+
+.css-xvdlkq {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    order: 0;
+}
+
+figure {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    -webkit-margin-start: 0;
+    margin-inline-start: 0;
+    -webkit-margin-end: 0;
+    margin-inline-end: 0;
+}
+
+.css-1twxb12 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px;
+}
+
+.css-4mkq0b {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 576px;
+    padding: 16px;
+}
+
+.css-jfvt6k {
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px 0px;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    min-height: 72px;
+    width: 100%;
+}
+
+.css-h1hxk7 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-shrink: 0;
+    padding: 16px;
+}
+
+.css-53pqls {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    padding: 8px 0px;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.css-t5tv68 {
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(51, 51, 51);
+}
+
+.css-m9vnvr {
+    font-size: 14px;
+    line-height: 18px;
+    color: rgb(153, 153, 153);
+}
+
+.css-h1hxk7 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-shrink: 0;
+    padding: 16px;
+}
+
+.css-4k21ov {
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px 0px;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    min-height: 72px;
+    width: 100%;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.css-12yiru7 {
+    display: flex;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    min-height: 72px;
+    width: 100%;
+}
+
+.css-h1hxk7 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-shrink: 0;
+    padding: 16px;
+}
+
+.css-1mso0e9 {
+    width: 100%;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 8px 0px;
+}
+
+.css-t5tv68 {
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(51, 51, 51);
+}
+
+.css-m9vnvr {
+    font-size: 14px;
+    line-height: 18px;
+    color: rgb(153, 153, 153);
+}
+
+.css-o9hh3a {
+    height: 16px;
+}
+
+.css-hd6e6o {
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px 0px;
+}
+
+.css-19midj6 {
+    padding: 16px;
+}
+
+.css-s5xdrg {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-zmph7e {
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(153, 153, 153);
+    margin-left: 16px;
+}
+
+.css-zr6a5n {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 16px 20px;
+    position: relative;
+}
+
+.address-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    padding-right: 28px;
+    padding-left: 28px;
+}
+
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.form-col {
+    width: 48%;
+    /* Cada coluna ocupa 48% da largura da linha */
+}
+
+input,
+textarea {
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 8px;
+    color: rgb(51, 51, 51);
+    padding: 8px;
+    font-size: 14px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+#cep {
+    text-transform: uppercase;
+}
+
+.css-qem3ea {
+    height: 120px;
+    width: 100%;
+    border-color: rgb(230, 230, 230);
+    border-radius: 8px;
+    color: rgb(51, 51, 51);
+    flex-shrink: 0;
+    padding: 8px;
+    font-size: 14px;
+}
+
+textarea {
+    overflow: auto;
+    font-family: Roboto;
+}
+
+.css-i6u9qh {
+    font-size: 12px;
+    line-height: 20px;
+    color: rgb(153, 153, 153);
+    position: absolute;
+    right: 16px;
+    bottom: 0px;
+}
+
+.css-dyo8dm {
+    margin-left: unset;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.css-hd6e6o {
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px 0px;
+}
+
+.css-n3wejr {
+    padding: 16px 16px 12px;
+    overflow: auto;
+}
+
+.css-9lkg8j {
+    display: flex;
+    height: 32px;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.css-14n98lz {
+    height: 24px;
+    width: 32px;
+    min-width: 32px;
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 8px;
+    margin-right: 12px;
+    line-height: 21px;
+}
+
+.css-1pc0fbl {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+
+figure {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    -webkit-margin-start: 0;
+    margin-inline-start: 0;
+    -webkit-margin-end: 0;
+    margin-inline-end: 0;
+}
+
+.css-1rzc6fh {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: rgb(153, 153, 153);
+    font-size: 14px;
+    white-space: nowrap;
+    font-weight: 400;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+.css-8q00bt {
+    margin-left: auto;
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
+}
+
+.css-9lkg8j {
+    display: flex;
+    height: 32px;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.css-14n98lz {
+    height: 24px;
+    width: 32px;
+    min-width: 32px;
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 8px;
+    margin-right: 12px;
+    line-height: 21px;
+}
+
+.css-1pc0fbl {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+
+.css-1rzc6fh {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: rgb(153, 153, 153);
+    font-size: 14px;
+    white-space: nowrap;
+    font-weight: 400;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+.css-8q00bt {
+    margin-left: auto;
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
+}
+
+.css-9lkg8j {
+    display: flex;
+    height: 32px;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.css-1ej62vj {
+    -webkit-box-pack: center;
+    justify-content: center;
+    display: flex;
+}
+
+.css-8fyzzt {
+    cursor: pointer;
+    text-align: center;
+    color: rgb(243, 144, 0);
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+a {
+    cursor: pointer;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+}
+
+a {
+    background-color: transparent;
+}
+
+.css-xdvdnl {
+    margin-top: auto;
+}
+
+.css-56szdv {
+    border-top: 0.4px solid rgb(247, 247, 247);
+    margin-bottom: 0px;
+    width: 100%;
+}
+
+.css-1dn66d8 {
+    color: rgb(153, 153, 153);
+    background: white;
+    font-size: 14px;
+    margin-top: auto;
+    bottom: 0px;
+    position: relative;
+    box-shadow: none;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.css-1pg8bi {
+    height: 20px;
+}
+
+.css-19t7vzy {
+    display: flex;
+    color: rgb(153, 153, 153);
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+
+.css-14kcwq8 {
+    color: rgb(153, 153, 153);
+}
+
+.css-5cm1aq {
+    color: rgb(0, 0, 0);
+}
+
+.css-19t7vzy {
+    display: flex;
+    color: rgb(153, 153, 153);
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+
+.css-14kcwq8 {
+    color: rgb(153, 153, 153);
+}
+
+.css-5cm1aq {
+    color: rgb(0, 0, 0);
+}
+
+.css-19t7vzy {
+    display: flex;
+    color: rgb(153, 153, 153);
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+
+.css-12tome2 {
+    margin: 0px;
+    width: 100%;
+    height: 1px;
+    border-style: unset;
+    transform: scaleY(-1);
+    background-color: rgba(0, 0, 0, 0.12);
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+.css-19t7vzy {
+    display: flex;
+    color: rgb(153, 153, 153);
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+
+.css-sioqkz {
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+.css-1ebprri {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.css-1gmcb5e {
+    outline: none;
+    border-radius: 24px;
+    font-size: 14px;
+    padding: 12px;
+    font-family: Roboto;
+    line-height: 20px;
+    text-transform: uppercase;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 197, 0);
+    border: 1px solid rgb(255, 197, 0);
+    width: 100%;
+}
+
+.css-tefwea {
+    line-height: 20px;
+    color: rgb(153, 153, 153);
+    font-size: 12px;
+    margin: 0px 16px 16px;
+}
+
+.css-1ijhdqb {
+    width: 100%;
+    height: 100%;
+    max-width: 1200px;
+}
+
+.css-pijuu2 {
+    width: 100%;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: column;
+    height: 106px;
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.12) 0px -1px 0px 0px inset;
+    margin-top: 32px;
+}
+
+.css-1x7kruc {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    font-weight: 500;
+    text-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: rgb(153, 153, 153);
+    font-size: 12px;
+    flex-direction: column;
+}
+
+.css-1wcsirv {
+    cursor: pointer;
+    margin-right: 24px;
+    font-weight: 500;
+    color: rgb(51, 51, 51);
+    font-size: 12px;
+    text-decoration: none;
+}
+
+a {
+    cursor: pointer;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+}
+
+.css-1wcsirv {
+    cursor: pointer;
+    margin-right: 24px;
+    font-weight: 500;
+    color: rgb(51, 51, 51);
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.css-a6v2b4 {
+    margin: 8px 0px 0px;
+    line-height: 14px;
+}
+
+.css-xbt7z7 {
+    padding: 16px;
+    display: grid;
+    row-gap: 16px;
+    grid: auto-flow auto / minmax(auto, 576px);
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.css-13cfpvr {
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: bold;
+}
+
+.css-12e8ixc {
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px 0px;
+    cursor: pointer;
+}
+
+.css-dj9j65 {
+    padding: 16px;
+    display: grid;
+    grid: auto / auto-flow auto 1fr auto;
+    column-gap: 16px;
+    -webkit-box-align: center;
+    place-items: center start;
+}
+
+.css-1pc0fbl {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+
+.css-s5xdrg {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-1v7hx2k {
+    font-weight: 500;
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+}
+
+.css-9wq9y6 {
+    margin-block: 0px;
+    margin-inline: 0px;
+    border-top: 1px solid rgb(230, 230, 230);
+    border-bottom: none;
+}
+
+.css-dj9j65 {
+    padding: 16px;
+    display: grid;
+    grid: auto / auto-flow auto 1fr auto;
+    column-gap: 16px;
+    -webkit-box-align: center;
+    place-items: center start;
+}
+
+.css-1pc0fbl {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+
+.css-s5xdrg {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-bc7ner {
+    font-weight: 500;
+    color: rgb(153, 153, 153);
+    font-size: 14px;
+}
+
+
+/* Estilos para o modal */
+
+.modal-background {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(2px);
+    z-index: 2;
+    /* Abaixo do modal */
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 3;
+}
+
+.modal-content {
+    text-align: center;
+}
+
+.close {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    color: #222;
+}
+
+
+/* Estilos para o fundo desfocado */
+
+.modal-open {
+    filter: blur(4px);
+    /* Aplica o efeito de desfoque no fundo */
+}
+
+
+/* Estilos para os campos de entrada e botão */
+
+.modal input {
+    display: block;
+    width: 95%;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.modal select,
+.modal button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+
+/* Estilos para o botão Finalizar Pedido */
+
+.modal button {
+    background-color: rgb(255, 197, 0);
+    color: #222;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+}
+
+
+/* Estilos para o botão Abrir Modal */
+
+#openModal {
+    background-color: rgb(255, 197, 0);
+    color: #222;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#openModal:hover {
+    background-color: #222;
+    color: #fff;
+}
+
+
+/* pix abaixo */
+
+
+/* Estilos para o modal Pix */
+
+.modalpix {
+    display: none;
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 3;
+}
+
+.modalpix-content {
+    text-align: center;
+}
+
+.closepix {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    color: #222;
+}
+
+
+/* Estilos para o fundo desfocado (modal Pix) */
+
+.modalpix-open {
+    filter: blur(4px);
+    /* Aplica o efeito de desfoque no fundo */
+}
+
+
+/* Estilos para os campos de entrada e botão (modal Pix) */
+
+.modalpix input {
+    display: block;
+    width: 95%;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.modalpix select,
+.modalpix button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.green-text {
+    color: #1abc9c;
+}
+
+
+/* Estilos para o botão Finalizar Pedido (modal Pix) */
+
+.modalpix button {
+    background-color: rgb(255, 197, 0);
+    color: #222;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+}
+
+
+/* Estilos para o botão Abrir Modal (modal Pix) */
+
+#openModalPix {
+    background-color: rgb(255, 197, 0);
+    color: #222;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#openModalPix:hover {
+    background-color: #222;
+    color: #fff;
+}
+
+
+/* Estilos para o modal de pagamento recusado */
+
+.modal-recusado {
+    display: none;
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 9;
+    /* Começa com opacidade zero para estar invisível */
+    transition: opacity 0.3s ease-in-out;
+}
+
+.modal-recusado-content {
+    text-align: center;
+}
+
+
+/* Estilos para o ícone de recusado */
+
+.modal-recusado i {
+    font-size: 24px;
+}
+
+
+/* Estilos para o texto "Pagamento não foi aprovado." */
+
+.red-text {
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+/* Estilos para o texto "Seu banco não autorizou o pagamento..." */
+
+.black-text {
+    color: #333;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+
+/* Estilos para o botão "Tentar novamente" */
+
+.try-again {
+    background-color: rgb(255, 197, 0);
+    color: #222;
+    border: none;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.try-again:hover {
+    background-color: #222;
+    color: #fff;
+}
+
+@media (min-width: 575.98px) {
+    .css-14eks39 {
+        order: 0;
+    }
+    .css-xvdlkq {
+        order: 1;
+    }
+    .css-1bdmndy {
+        height: 48px;
+    }
+    .css-1twxb12 {
+        flex-direction: row;
+        padding: 16px;
+    }
+    .css-4mkq0b {
+        padding: 0px;
+    }
+    .css-dyo8dm {
+        margin-left: 32px;
+        width: 320px;
+    }
+    .css-pijuu2 {
+        margin-top: 0px;
+    }
+    .css-1x7kruc {
+        flex-direction: column;
+    }
+    .css-khinhp {
+        margin-bottom: 0px;
+    }
+}
